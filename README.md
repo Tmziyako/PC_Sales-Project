@@ -1,30 +1,48 @@
-# pc_sales_sql_practise_project
+# 🖥️ pc_sales_sql_practice_project
 
-This project focuses on building SQL skills, starting from the basics and progressing to advanced concepts. The approach is to solve questions and challenges based on provided datasets.
+## 📌 Project Overview
+This project focuses on building and strengthening **SQL skills**, starting from the basics and progressing to advanced concepts. The approach is hands-on: solving questions and challenges based on provided datasets to simulate real-world scenarios in data analysis and reporting.
 
-#Objectives: 
-Practice fundamental SQL queries such as filtering, sorting, and grouping
-Explore aggregate functions (SUM, COUNT, AVG) for data analysis
-Work with joins to combine data across multiple tables
+---
 
-Repository Structure:
-raw_data: Contains the source dataset (pc_data.csv) which includes sales transactions, employee performance, and product details.
-pc_questions: Contains the business logic and analytical requirements (pc_sales_sql_questions.sql) that drive the project.
-sql_scripts: This is the core of the repository, providing tiered solutions (Basic, Intermediate, and Advanced) to the business questions.
+## 🎯 Objectives
+- Practice fundamental SQL queries such as filtering, sorting, and grouping  
+- Explore aggregate functions (`SUM`, `COUNT`, `AVG`) for data analysis  
+- Work with joins to combine data across multiple tables  
+- Progress toward advanced SQL concepts through structured exercises  
 
-Tools Used:
-SQL Server Management Studio 22(SMSS)
+---
 
-Why This Project?
+## 📂 Repository Structure
+- **raw_data** → Contains the source dataset (`pc_data.csv`) with sales transactions, employee performance, and product details  
+- **pc_questions** → Contains business logic and analytical requirements (`pc_sales_sql_questions.sql`) that drive the project  
+- **sql_scripts** → Core of the repository, providing tiered solutions (Basic, Intermediate, Advanced) to the business questions  
+
+---
+
+🛠️ Tools & Technologies
+- **SQL Server Management Studio 22 (SSMS)**  
+- **T-SQL** for queries, joins, and stored procedures  
+- **GitHub** for version control and documentation  
+
+---
+
+## 🔑 Skills Demonstrated
+- Writing efficient SQL queries for analysis  
+- Using aggregate functions for insights  
+- Combining data with joins across multiple tables  
+- Structuring solutions from beginner to advanced levels  
+- Applying business logic to real-world datasets  
+
+---
+
+## 🚀 Why This Project?
 By consistently practicing SQL in a structured way:
-Build confidence in writing efficient queries.
-Improve my ability to analyze and interpret data.
-Prepare for real-world scenarios such as database management, reporting, and analytics.
+- Build confidence in writing efficient queries  
+- Improve ability to analyze and interpret data  
+- Prepare for real-world scenarios such as database management, reporting, and analytics  
 
-Skills Covered
-Filtering and sorting data
-Using aggregate functions (SUM, COUNT, AVG)
-Grouping results with GROUP BY
+
 
 
 Business Analysis Topics

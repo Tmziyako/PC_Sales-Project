@@ -42,12 +42,11 @@ By consistently practicing SQL in a structured way:
 - Improve ability to analyze and interpret data  
 - Prepare for real-world scenarios such as database management, reporting, and analytics  
 
+## 📊 Business Analysis Topics
 
+The analysis explores several key performance indicators (KPIs) to provide actionable insights:
 
-
-Business Analysis Topics
-The analysis covers several key performance indicators (KPIs):
-Sales Performance: Total revenue, discount impacts, and profit margins.
-Employee Metrics: Rankings based on total sales and credit score correlations.
-Product Insights: PC market price vs. actual sales price analysis.
-Geographic Trends: Sales distribution by store location and channel.
+- **Sales Performance** → Evaluation of total revenue, discount impacts, and profit margins  
+- **Employee Metrics** → Rankings based on total sales and analysis of credit score correlations  
+- **Product Insights** → Comparison of PC market prices versus actual sales prices to identify trends  
+- **Geographic Trends** → Distribution of sales by store location and sales channel performance  
